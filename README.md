@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @imcrazeegamer
-- 👀 I’m interested in AI, ML, and bot programing for games
-- 🌱 I’m currently learning AI and ML 
-- 💞️ I’m looking to collaborate on bot wars in games
-- 📫 How to reach me Imcrazeegamer#5298 discord
-- 🧠 I use python mainly but i have experience with c# and basic understanding of alot of programing languages
-<!---
-imcrazeegamer/imcrazeegamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 **Full Stack Developer** | 🎨 **Indie Game Dev** | 🎸 **Musician** | 🎧 **Mixing Engineer**
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, TypeScript, C#
+- **Full Stack:** Node.js, React, Express, MongoDB
+- **Game Dev:** Unity (C#)
+- **Audio:** Reaper, Cubase, Analog Gear Wizardry
+
+---
+
+## 🎮 Indie Games
+I build weird, fun, sometimes chaotic games.  
+Got some bot sims under my belt, stay tuned for some upcoming projects.
+
+---
+
+## 🎶 Music & Mixing
+When I'm not coding, I'm probably:
+- Recording bass
+- Producing tracks
+- Mixing for other artists
+
+Need a mix? Let’s talk.
+
+---
+
+## 🌱 Currently
+- 💼 Working Parttime at a Xoltar as a Software Enginier
+- 🎲 Building a pixel-art game
+- 🎧 Taking on mixing clients
+- 🎼 Making music for video games
+- 📦 Learning new tech every week
+- 🎸 Playing Live Shows
+
+---
