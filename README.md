@@ -1,37 +1,33 @@
-🎮 **Full Stack Developer** | 🎨 **Indie Game Dev** | 🎸 **Musician** | 🎧 **Mixing Engineer**
+# Yisrael Hessler
 
----
+**Software Engineer** | **Full-Stack Developer** | **Game Developer** | **Musician**
 
-## 🛠️ Tech Stack
-- **Languages:** Python, TypeScript, C#
-- **Full Stack:** Node.js, React, Express, MongoDB
-- **Game Dev:** Unity (C#)
-- **Audio:** Reaper, Cubase, Analog Gear Wizardry
+Software engineer working primarily with **Python, TypeScript, React, Node.js, and AWS**.
 
----
+I build web applications, APIs, games, and various side projects that are usually more complicated than they need to be.
 
-## 🎮 Indie Games
-I build weird, fun, sometimes chaotic games.  
-Got some bot sims under my belt, stay tuned for some upcoming projects.
+## Tech
 
----
+- **Languages:** Python, TypeScript, JavaScript, C#
+- **Frontend:** React, React Native
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** MongoDB
+- **Cloud:** AWS
+- **Game Dev:** Unity
 
-## 🎶 Music & Mixing
-When I'm not coding, I'm probably:
-- Recording bass
-- Producing tracks
-- Mixing for other artists
+## Projects
 
-Need a mix? Let’s talk.
+### 🎮 Game Development
+I build games and interactive projects, mostly experimenting with gameplay systems, AI, and weird ideas.
 
----
+### 🎧 Music & Audio
+Outside of software, I'm a musician, producer, and mixing engineer.
 
-## 🌱 Currently
-- 💼 Working Parttime at a Xoltar as a Software Enginier
-- 🎲 Building a pixel-art game
-- 🎧 Taking on mixing clients
-- 🎼 Making music for video games
-- 📦 Learning new tech every week
-- 🎸 Playing Live Shows
+I play guitar and bass, produce music, and work with recording, mixing, and analog gear.
+
+### 🎸 Elephant Zero
+My progressive/experimental music project.
+
+[Spotify](https://open.spotify.com/artist/2uxV9VyMODWJdbGaRHHLz4)
 
 ---
