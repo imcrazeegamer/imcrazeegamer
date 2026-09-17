@@ -26,7 +26,7 @@ Outside of software, I'm a musician, producer, and mixing engineer.
 I play guitar and bass, produce music, and work with recording, mixing, and analog gear.
 
 ### 🎸 Elephant Zero
-My progressive/experimental music project.
+A progressive/experimental music project i took part in.
 
 [Spotify](https://open.spotify.com/artist/2uxV9VyMODWJdbGaRHHLz4)
 
